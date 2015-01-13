@@ -29,6 +29,9 @@
 This module adds a some improvements for the HR module.
 It adds:
 - a date field for the entry of the employee in the company
+- info regarding the key of the buidling and badge access
+- info regarding the computer of the employee
+- info regarding the fuel card of the employee
  """,
     "depends": [
         "hr",
