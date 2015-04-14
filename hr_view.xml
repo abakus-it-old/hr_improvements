@@ -10,7 +10,7 @@
             <field name="arch" type="xml">
                 
                 <notebook>
-                    <page string="AbAKUS" groups="base.group_hr_manager">
+                    <page string="AbAKUS" groups="base.group_hr_user">
                         <group string="Contract info">
                            <field name="entry_date"/>
                         </group>
