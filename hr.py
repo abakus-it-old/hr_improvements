@@ -20,3 +20,4 @@ class hr_employee(models.Model):
                                  ondelete='restrict')
     fuel_card_number = fields.Char('Fuel card number')
     fuel_card_pin = fields.Char('Furl card PIN')
+    notes = fields.Char('Notes')
