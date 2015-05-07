@@ -30,6 +30,8 @@
                                 <field name="fuel_card_pin" />
                             </group>
                         </group>
+                        <separator string="Notes" name="notes"/>
+                        <field name="notes"/>
                     </page>
                 </notebook>
             </field>
