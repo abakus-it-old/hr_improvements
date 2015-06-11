@@ -19,5 +19,5 @@ class hr_employee(models.Model):
                                  help='Select a partner for this fuel card if it exists.',
                                  ondelete='restrict')
     fuel_card_number = fields.Char('Fuel card number')
-    fuel_card_pin = fields.Char('Furl card PIN')
+    fuel_card_pin = fields.Char('Fuel card PIN')
     notes = fields.Char('Notes')
