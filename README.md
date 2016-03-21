@@ -14,3 +14,5 @@ Added fields:
 -   fuel_card_number
     fuel_card_pin
 - Notes: short text for info regarding the employee
+
+This module has been developed by Valentin THIRION @ AbAKUS it-solutions
