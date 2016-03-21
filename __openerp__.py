@@ -32,6 +32,7 @@ It adds:
 - info regarding the key of the buidling and badge access
 - info regarding the computer of the employee
 - info regarding the fuel card of the employee
+- note
  """,
     "depends": [
         "hr",
