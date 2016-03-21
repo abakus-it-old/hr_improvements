@@ -33,6 +33,8 @@ It adds:
 - info regarding the computer of the employee
 - info regarding the fuel card of the employee
 - note
+
+This module has been developed by Valentin THIRION @ AbAKUS it-solutions
  """,
     "depends": [
         "hr",
